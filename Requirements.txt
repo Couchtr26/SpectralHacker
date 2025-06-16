@@ -1,0 +1,13 @@
+🧰 Requirements
+Python 3.x
+
+Pillow
+
+NumPy
+
+Matplotlib
+
+bash
+Copy
+Edit
+pip install Pillow numpy matplotlib
